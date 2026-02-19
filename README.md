@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Johnwesleyfaustin
-- 👀 I’m interested in Web Development...
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Discord
-- 📪 Reach me via email:wanaidatarthe@gmail.com
+- 👀 I’m interested in Computer Networking...
+- 💞️ Feel free to reach out, please!
 
 <!---
 Johnwesleyfaustin/Johnwesleyfaustin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
